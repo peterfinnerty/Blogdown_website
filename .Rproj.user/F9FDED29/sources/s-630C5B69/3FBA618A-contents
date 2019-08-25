@@ -1,0 +1,43 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Peter Finnerty"
+theme = "ezhil"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	# Blog subtitle which appears below blog title. Supports markdown.
+	subtitle = "Data, startups, and thoughts"
+	# Number of posts to show in recent posts list (Optional). Defaults to 10.
+	recentPostsCount = 10
+	# Content types which are excluded from recent posts and archive page (Optional). Defaults to ["page"]
+	excludedTypes = ["page"]
+	# Content types which are excludes Disqus comments (Optional). Defaults to ["page"]
+	disableDisqusTypes = ["page", "post"]
+	# If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+	featherIconsCDN = true
+
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+# Social media
+# Uses feather icons for icons. https://feathericons.com/
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/ptfinnerty/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/peter_finnerty"

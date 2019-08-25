@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566705945590.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5C61DAE4",
+    "lastKnownWriteTime" : 1566705959,
+    "last_content_update" : 1566705959545,
+    "path" : "~/Documents/Blogdown_website/content/CV/CV.Rmd",
+    "project_path" : "content/CV/CV.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,12",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
