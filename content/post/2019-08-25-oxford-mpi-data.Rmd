@@ -19,7 +19,7 @@ MPI scores represent the best operationalized non-income based approach to measu
 <br>
 MPIs measure both incidence and intensity of poverty, combining these measurements to understand severity of poverty in an area. MPI scores are calculated by measuring the incidence and intensity of ten indicators of poverty:
 ```{r pressure, fig.align='center', echo=FALSE, fig.cap="MPI Dimensions of Poverty", out.width = '75%'}
-knitr::include_graphics("./Indicators.jpg")
+knitr::include_graphics("/img/Indicators.jpg")
 ```
 
 <br>
