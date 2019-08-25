@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/data/</loc>
-    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/exploring-oxford-mpi-data/</loc>
+    <loc>/post/oxford-mpi-data/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +24,11 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/visualization/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
   </url>
   
