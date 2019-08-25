@@ -30,11 +30,6 @@ name = "About"
 url = "/about"
 weight = 2
 
-[[menu.main]]
-name = "All posts"
-url = "/post"
-weight = 3
-
 # Social media
 # Uses feather icons for icons. https://feathericons.com/
 [[params.social]]
