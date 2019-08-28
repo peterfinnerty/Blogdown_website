@@ -1,5 +1,5 @@
 ---
-title: 'Predictive Models: Seattle Home Prices'
+title: 'Explanatory and Predictive Models in R'
 author: Peter Finnerty
 date: '2019-08-28'
 slug: predictive-models-seattle-home-prices
@@ -8,7 +8,7 @@ tags:
   - R
   - Models
 draft: no
-description: "Final Presentation on Modelling"
+description: "Final Presentation on Seattle Home Prices"
 disqus: false
 ---
 
