@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Peter Finnerty"
 theme = "ezhil"
 
+# Your Google analytics code.
+googleAnalytics = "UA-146641502-1"
+
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
