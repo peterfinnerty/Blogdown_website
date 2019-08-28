@@ -17,8 +17,7 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/predictive-models-seattle-home-prices/</guid>
-      <description>This is my final presentation for Analytics and Business Intelligence, a course I completed during my senior year at BC. In this project, I used linear regressions to explain what causes home prices and predictive models (Logistic, Naive Bayes, and Decision Tree) to identify highly priced homes. Here is the dataset used for this project, which is from Kaggle and focues on King County, Washington.   
-In the coming days, I’ll post a markdown file with much of the code used to produce this presentation.</description>
+      <description> This is my final presentation for Analytics and Business Intelligence, a course I completed during my senior year at BC. In this project, I used linear regressions to explain what causes home prices and predictive models (Logistic, Naive Bayes, and Decision Tree) to identify highly priced homes. Here is the dataset used for this project, which is from Kaggle and focues on King County, Washington.   </description>
     </item>
     
   </channel>
