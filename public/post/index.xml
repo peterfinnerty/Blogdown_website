@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Peter Finnerty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Predictive Models: Seattle Home Prices</title>
+      <link>/post/predictive-models-seattle-home-prices/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/predictive-models-seattle-home-prices/</guid>
+      <description>This is my final presentation for Analytics and Business Intelligence, a course I completed during my senior year at BC.
+  In this project, I used linear regressions to explain what casues home prices and predictive models (Logistic, Naive Bayes, and Decision Tree) to identify highly priced homes. Here is the dataset used for this project, which is from Kaggle and focues on King County, Washington.
+In the coming days, I’ll post a markdown file with much of the code used to produce this presentation.</description>
+    </item>
     
     <item>
       <title>Oxford MPI Data</title>
