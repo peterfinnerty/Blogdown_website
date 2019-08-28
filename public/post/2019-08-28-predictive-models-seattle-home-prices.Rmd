@@ -13,11 +13,10 @@ disqus: false
 ---
 
 This is my final presentation for Analytics and Business Intelligence, a course I completed during my senior year at BC. 
-
-<p><iframe src="https://docs.google.com/presentation/d/17rWmDGIpPZDa6d5wnQ1Q_I65hXNcsnFA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-
-
+<br><br>
 In this project, I used linear regressions to explain what casues home prices and predictive models (Logistic, Naive Bayes, and Decision Tree) to identify highly priced homes. [Here](https://www.kaggle.com/harlfoxem/housesalesprediction) is the dataset used for this project, which is from Kaggle and focues on King County, Washington. 
-
+<br>
+<p><iframe src="https://docs.google.com/presentation/d/17rWmDGIpPZDa6d5wnQ1Q_I65hXNcsnFA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<br>
 In the coming days, I'll post a markdown file with much of the code used to produce this presentation.
 
